@@ -7,11 +7,13 @@ The terms used in this Privacy Policy have the same meanings in our Terms and Co
 
 ### Collection and Use Information ###
 
-To provide an enhanced experience while using our Service, we may request certain personally identifiable information, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking information, SINTEGRA, and social contract. This information will be stored on your device and will not be collected by us in any way.
+To provide an enhanced experience while using our Service, we may request certain personally identifiable information, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking information, SINTEGRA, and social contract - INTEGRATOR. This information will be securely stored on your device and will not be collected by us in any way.
+
 Please note that the app may use third-party services that could collect information to identify you. For more details, you can refer to the privacy policy of the third-party service providers used by the app.
+
 Additionally, we may also collect the client's name, email, phone, CPF or CNPJ, date of birth, RG or IE, and billing and shipping address for accurate billing, delivery of goods or services, and compliance with legal requirements. Safeguarding this information is crucial to maintain data privacy and security.
 
-It's important to note that the TenApp is solely designed for generating quotations and orders, and does not engage in direct product sales in any way.
+It is important to note that TenApp requires mandatory login to access its features. We take data privacy seriously and strive to ensure the security and confidentiality of the information you provide to us. The application is exclusively designed to generate quotations and orders, where the user must access the web platform to finalize the purchase.
 
 * [Google Play Services](https://policies.google.com/privacy)
 * [App Store](https://www.apple.com/legal/privacy/br/)
