@@ -7,7 +7,7 @@ The terms used in this Privacy Policy have the same meanings in our Terms and Co
 
 ### Data Collection and Use  ###
 
-To provide an enhanced experience while using our Service, we may request certain personally identifiable data, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking data, SINTEGRA, and social contract. This data will be securely stored on your device and will not be collected by us in any situation.
+To ensure the security of your data, we have implemented measures for secure storage, where personally identifiable information such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking data, SINTEGRA, and social contract will be encrypted and stored securely in our systems. We are committed to protecting the confidentiality and integrity of your data by employing appropriate information security practices to prevent unauthorized access or misuse.
 
 Please note that the app may use third-party services that could collect data to identify you. For more details, you can refer to the privacy policy of the third-party service providers used by the app.
 
