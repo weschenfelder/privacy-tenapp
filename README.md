@@ -7,7 +7,7 @@ The terms used in this Privacy Policy have the same meanings in our Terms and Co
 
 ### Collection and Use Information ###
 
-To provide an enhanced experience while using our Service, we may request certain personally identifiable information, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking information, SINTEGRA, and social contract - INTEGRATOR. This information will be securely stored on your device and will not be collected by us in any way.
+To provide an enhanced experience while using our Service, we may request certain personally identifiable information, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking information, SINTEGRA, and social contract. This information will be securely stored on your device and will not be collected by us in any way.
 
 Please note that the app may use third-party services that could collect information to identify you. For more details, you can refer to the privacy policy of the third-party service providers used by the app.
 
@@ -36,7 +36,7 @@ We want to inform users of this service that these third parties have access to 
 
 ### Security ###
 
-Value your confidence in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting them. Keep in mind that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and it is not possible guarantee its absolute security.
+We value your trust in providing us with your personal information, therefore we are striving to use commercially acceptable means of protecting it. Please keep in mind that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee your absolute security.
 
 ### Links to Other Sites ###
 
