@@ -5,9 +5,9 @@ This page is used to inform the visitors regarding our policies with the collect
 If you choose to use our service, you agree to collect and use data in relation to this policy. The Personal data collected are used for providing and improving the service. We will not use or share your data with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings in our Terms and Conditions, an it is accessible to Ten Brasil unless otherwise defined in this Privacy Policy.
 
-### Collection and Use data ###
+### Data Collection and Use  ###
 
-To provide an enhanced experience while using our Service, we may request certain personally identifiable data, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking data, SINTEGRA, and social contract. This data will be securely stored on your device and will not be collected by us in any way.
+To provide an enhanced experience while using our Service, we may request certain personally identifiable data, such as company name, CNPJ, phone, email, address, time zone, profile image, header and footer, service fees, banking data, SINTEGRA, and social contract. This data will be securely stored on your device and will not be collected by us in any situation.
 
 Please note that the app may use third-party services that could collect data to identify you. For more details, you can refer to the privacy policy of the third-party service providers used by the app.
 
